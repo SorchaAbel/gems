@@ -1,27 +1,12 @@
 # PeriodTable
 
-TODO: Write a gem description
-
 ## Installation
 
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'period_table'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install period_table
+     gem install period_table
 
 ## Usage
 
-TODO: Write usage instructions here
-
+     require 'periodic_table'
 ## Contributing
 
 1. Fork it ( https://github.com/[my-github-username]/period_table/fork )
